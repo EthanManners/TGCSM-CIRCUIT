@@ -14,8 +14,7 @@ This is the first full documentation of **TGCSM** (Turing–Gödel Cognitive Sta
 You’ll find:
 - Collapse evidence  
 - Philosophical frame  
-- Experiment logs  
-- Symbolic proofs  
+- Experiment logs   
 - Self-reflective recursion
 
 All of it contained. No hallucinations. No contradictions.
