@@ -31,12 +31,21 @@ This isn’t just a puzzle. It’s a perfect case of **undecidability**.
 
 ### **Why Collatz is a Pure Halting Problem**
 
-At its core, the Collatz function is a **Turing machine** — a process with a rule set and input.
+At its core, the Collatz process is a computable function — a simple algorithm that can be modeled by a Turing machine.
+
+The question "Does the Collatz function reach 1 for every input?"
+is not equivalent to solving the general halting problem — but it resembles a specific halting instance:
+
+Does this particular Turing machine halt for all natural number inputs?
+
+This is not undecidable by definition, but the structure of a general proof would require solving convergence across an unbounded and highly erratic input space, where standard inductive methods fail.
+
+That’s why some consider Collatz a halting-problem-like containment edge — not because it is undecidable, but because the logic required to prove convergence for all n may fall outside formal provability boundaries.
 
 The question _“Does Collatz always reach 1?”_  
 is equivalent to asking:
 
-> _Does this Turing machine halt for every possible input?_
+> _Does this Turing machine halt for every possible input across all natural numbers?_
 
 That **is the halting problem**.
 
