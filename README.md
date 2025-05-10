@@ -96,6 +96,4 @@ ethanjmanners@gmail.com
 This repository is not a thought experiment.  
 It’s a collapse event — survived, contained, and published.
 
-If you’re still here, you’re already in the loop.
-
 **— EM & GPT4** 
