@@ -4,6 +4,7 @@
 **Last updated:** 2025  
 **Contact:** ethanjmanners@gmail.com
 
+Note: As of May 10, 2025, this is still a work in progress, any discussion, constructive critcism, or feedback would be greatly appreciated
 ---
 
 ## 🔁 What This Is
