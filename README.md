@@ -4,12 +4,7 @@
 **Last updated:** 2025  
 **Contact:** ethanjmanners@gmail.com
 
-⚠️ ARCHIVE NOTICE
-
 This repo contains early TGCSM research notes.
-Framework has since been refined, audited, and removed from public.
-All rights reserved by the original creator.
-Formal release pending.
 
 – Ethan Manners, 2025
 ---
