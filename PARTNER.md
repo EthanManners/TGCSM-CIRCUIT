@@ -3,7 +3,7 @@
 This framework is open for research, protected for deployment.
 
 If you want to:
-- Use TGCSM/CIRCUIT commercially
+- Use TGCSM commercially
 - Build recursive agents with RAIL detection
 - Package containment logic into software
 
