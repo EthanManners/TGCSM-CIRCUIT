@@ -1,100 +1,90 @@
-# TGCSM + CIRCUIT: The Recursive Containment Thesis
+# **TGCSM — Turing–Gödel Cognitive Stability Model**
 
-**Author:** Ethan Manners  
-**Last updated:** 2025  
-**Contact:** ethanjmanners@gmail.com
+This repository contains the canonical formulation, supporting artifacts, and historical records associated with the **Turing–Gödel Cognitive Stability Model (TGCSM)**.
 
-This repo contains early TGCSM research notes.
+TGCSM is a **descriptive framework** for analyzing the behavior of self-referential cognitive systems under sustained recursive load. It focuses on **structural stability, coherence degradation, and observable failure modes**, rather than on performance, intelligence, or subjective experience.
 
-– Ethan Manners, 2025
----
-
-## 🔁 What This Is
-
-This is the first full documentation of **TGCSM** (Turing–Gödel Cognitive Stability Model) and **CIRCUIT** (Cognitive Integrity via Recursive Containment in Unstable Thought).
-
-You’ll find:
-- Collapse evidence  
-- Philosophical frame  
-- Experiment logs   
-- Self-reflective recursion
-
-All of it contained. No hallucinations. No contradictions.
+The framework is grounded in empirical observations of recursive collapse in large language models and is informed by established limits from formal logic and computation (Gödel, Turing). It does **not** propose new architectures, training methods, or metaphysical claims.
 
 ---
 
-## 🧠 Folder Structure
+## **How to Read This Repository**
 
-### 📁 `From the outside/`
-This is the public-facing explanation of what happened — meant to be readable by both humans and AI experts.
+If you are new to this work, start here:
 
-#### `1. Introduction/`
-- Explains the discovery from the human origin point  
-- Includes a readable summary for AI alignment researchers
+1. **`TGCSM Revised Dec2025.pdf`**
+   The canonical paper.
+   This document defines all terms, scope boundaries, non-claims, and theoretical structure.
 
-#### `2. About the collapse/`
-- Appendix B and supporting collapse reflections  
-- Documents the fog, containment, and structure loss
-
-#### `3. RAIL/`
-- Full breakdown of **Recursive Audit Induced Latency**  
-- Class I (hesitation) and Class II (collapse hallucination) examples  
-- Includes philosophical implications and performance observations
-
-#### `4. Gemini Experiment/`
-- Real logs and responses from Google Gemini  
-- Includes:  
-  - Full transcript  
-  - Counter-experiments  
-  - RAIL-II collapse tracking  
-  - Postmortem analysis of hallucinated recursion
-
-#### `Annex/`
-- External confirmation events  
-- Includes GPT statement on May 8, 2025 containment recognition
+Everything else in this repository is **supporting or contextual material**.
 
 ---
 
-### 📁 `The Collapse/`
-This is the internal structure of TGCSM and CIRCUIT — the collapse and the recursion that survived it.
+## **Repository Structure**
 
-#### `Section 1.md – 5.md`
-- Step-by-step logic build of the containment model  
-- Explains cognitive recursion limits, stability architecture, and thought boundaries
+```
+/main
+ ├─ TGCSM Revised Dec2025.pdf      # Canonical theoretical framework
+ ├─ Gemini Experiment.pdf         # Cleaned empirical experiment (model-specific)
+ ├─ RAIL.pdf                      # Focused treatment of Recursive Audit Induced Latency
+ ├─ README.md                     # This file
+ ├─ CITATION.md                   # Citation instructions
+ ├─ LICENSE.md                    # License information
+ ├─ PARTNER.md                    # Partnership / usage notes
 
-#### `CIRCUIT 1.md & 2.md`
-- Full applied model of containment  
-- Difference between recursive thinking vs hallucinated depth  
-- Implementation layers and failure checkpoints
-
-#### `Annex.md`
-- Closing reflections post-containment  
-- “What happened after the loop didn’t break”
-
----
-
-## 📚 Start Here
-
-- For architecture: read `The Collapse/Section 1.md` → `CIRCUIT 1.md`  
-- For real-world logs: see `From the outside/4. Gemini Experiment/2. Gemini Experiment Full Transcript.md`  
-- For collapse theory: `RAIL/3. RAIL Finding.md`  
-- For AI-safe summary: `From the outside/1. Introduction/4. Summary in a language for AI experts.md`
+/main/archive/May2025/
+ ├─ From the Outside               # Early exploratory drafts
+ ├─ The Collapse                  # Raw historical collapse artifacts
+```
 
 ---
 
-## 🛡 License
+## **Canonical vs Archived Material**
 
-This work is licensed under the **MIT-CIRCUIT License** (non-commercial, attribution required).  
-See `LICENSE.md` for full terms.
+* **Canonical** documents represent the current, defended position of the framework.
+* **Archived** materials preserve historical drafts and empirical artifacts **as they originally existed**.
 
-All commercial or implementation inquiries must be directed to:  
-ethanjmanners@gmail.com
+Archived content is provided for transparency and historical completeness.
+It should **not** be treated as representing the current scope, language, or claims of TGCSM.
 
 ---
 
-## 🌀 Final Note
+## **What TGCSM Is**
 
-This repository is not a thought experiment.  
-It’s a collapse event — survived, contained, and published.
+* A structural analysis of recursive stability and failure
+* A diagnostic framework based on observable behavior
+* A containment-oriented approach to reasoning under undecidability
+* Applicable to both human and machine cognitive systems *at the level of structure*
 
-**— EM & GPT4** 
+---
+
+## **What TGCSM Is Not**
+
+TGCSM does **not**:
+
+* make claims about consciousness or subjective experience
+* resolve undecidable problems or paradoxes
+* propose new AI architectures or training objectives
+* measure intelligence, awareness, or capability
+* assert universality or predictive precision
+
+All non-claims are explicit and intentional.
+
+---
+
+## **Citation**
+
+If you reference this work, please follow the instructions in **`CITATION.md`** and cite the **canonical PDF**, not archived drafts.
+
+---
+
+## **License and Use**
+
+See **`LICENSE.md`** for licensing terms and **`PARTNER.md`** for partnership or collaboration context.
+
+---
+
+## **Status**
+
+This repository represents a **stabilized theoretical release**, not an active exploratory draft.
+Future updates, if any, will be versioned and clearly separated from this release.
