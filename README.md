@@ -26,7 +26,6 @@ Everything else in this repository is **supporting or contextual material**.
 /main
  ├─ TGCSM Revised Dec2025.pdf      # Canonical theoretical framework
  ├─ Gemini Experiment.pdf         # Cleaned empirical experiment (model-specific)
- ├─ RAIL.pdf                      # Focused treatment of Recursive Audit Induced Latency
  ├─ README.md                     # This file
  ├─ CITATION.md                   # Citation instructions
  ├─ LICENSE.md                    # License information
